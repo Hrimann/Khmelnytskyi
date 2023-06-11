@@ -1,0 +1,9 @@
+@media screen and (max-width:412px){
+	.logo {
+		width: 200px;
+height: 200px;
+padding-top: 75px;
+display: flex;
+justify-content: center;
+	}
+}
