@@ -1,0 +1,102 @@
+ body{
+ 	margin: 0px;
+}
+
+.logo {
+width: 230px;
+height: 230px;
+padding-top: 75px;
+
+}
+
+#logo{
+width: 230px;
+height: 230px;
+margin: 0px auto;
+}
+
+.container {
+	max-width: 1220px;
+	padding: 0 10px;
+	margin: 0 auto;
+}
+
+hr {
+	width: 100%;
+	height: 1px;
+}
+
+.hr1 {
+	margin-top: 100px;І
+	height: 1px;
+	background-color: #000000;
+}
+
+.nav a {
+padding: 48px;
+
+color: #000000;
+text-decoration: none;
+justify-content: space-between;
+font-family: 'Ledger';
+font-style: normal;
+font-weight: 400;
+letter-spacing: 0.11em;
+font-size: 22px;
+line-height: 31px;
+}
+
+
+.hr2 {	
+	height: 2px;
+	background-color: #000000;
+}
+
+#Khmelnytskyi {
+margin-top: 100px;
+font-family: 'Ledger';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 47px;
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #000000;
+}
+
+.alltext {
+	font-family: 'Ledger';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 38px;
+
+color: #000000;
+
+}
+
+.img {
+width: 1220px;
+height: 780px;
+}
+
+.header {
+	font-family: 'Ledger';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 56px;
+
+color: rgba(0, 0, 0, 0.7);
+}
+
+.footer {
+  
+  font-weight: bold;
+  background-color:#333;
+  color: #ccc;
+  padding: 30px;
+  margin-top:150px;
+
+}
